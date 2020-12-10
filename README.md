@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-//<img src="./testSVG.svg">
+/*<img src="./testSVG.svg"> */
