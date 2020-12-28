@@ -2,5 +2,5 @@
 
 Hello everyone. My name is Joshua. I am passionate about computers and programming. In particular, I am interested in Artifical Intelligence, financial market analyais, and cryptography. Honestly, I am intrigued by whatever topic happens to occupy my mind at the current time. 
 
-<h6><i>Disclaimer: Due to the way the Safari browser interprets SVG, this README may not look as great when viewed through macOS or iOS.</i></h6>
+<h6><i><center>Disclaimer: Due to the way the Safari browser interprets SVG, this README may not look as great when viewed through macOS or iOS.</center></i></h6>
 
